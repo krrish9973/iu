@@ -21,3 +21,11 @@ git branch --set-upstream-to=origin/develop   #Set develop as a Default Branch
 
 #List Local and remote Branches:
 git branch -a
+
+#Check Remote Branches only
+git branch -r
+
+#Check Current Branch
+git branch
+OR
+git status
